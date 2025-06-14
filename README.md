@@ -73,3 +73,8 @@ For each EEG segment:
 - **Softmax** output for binary classification
 
 ---
+## 🚧 Project Status
+
+This project is currently a work in progress (WIP).  
+Only data preprocessing and segmentation are implemented for now.  
+Model training, evaluation, and spectrogram generation are planned next.
