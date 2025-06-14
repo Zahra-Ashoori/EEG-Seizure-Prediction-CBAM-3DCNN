@@ -15,4 +15,4 @@ This repo includes:
 - EEG preprocessing (band-stop, high-pass filtering, normalization)
 - Segmentation of preictal and interictal signals
 - Spectrogram generation using STFT
-- Placeholder for future model training
+- Training model based on ...
